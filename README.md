@@ -1,4 +1,4 @@
-# 🚀 TypeSim – Secure Typing Tool
+# 👩🏻‍💻 TypeSim – Secure Typing Tool
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
@@ -84,7 +84,7 @@ Make sure to visit my GitHub page and drop a star.
 > This tool is for educational and productivity purposes only. Please use it responsibly and ethically.
 ---
 ## ⭐ Like it? Support by Giving a Star!
-[![GitHub Repo stars](https://img.shields.io/github/stars/Audi14/TypeSim?style=social)](https://github.com/Audi14-2005/TypeSim)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Audi14-2005/TypeSim?style=social)](https://github.com/Audi14-2005/TypeSim)
 ---
 
 ## 👨‍💻 Author
