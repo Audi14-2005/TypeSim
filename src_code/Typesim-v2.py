@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2025 Monic Auditya.A (Audi)
+#
+# See the LICENSE file in the root of this project for license information.
 import pyautogui
 import time
 import tkinter as tk
