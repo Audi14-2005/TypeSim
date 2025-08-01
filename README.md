@@ -10,23 +10,7 @@
 
 > 🧠 Ideal for restricted environments like VMs, remote desktops, or software that blocks clipboard operations.
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Audi14/TypeSim/main/assets/typing-demo.gif" alt="Typing Demo" width="600"/>
-</p>
-
----
-
-## 📦 What's Inside the Drive?
-
-📁 TypeSim/
-├── TypeSim.exe ← Launch this directly (no installer)
-├── README.md ← You're reading this!
-
-php-template
-Copy
-Edit
+## 📦 What's Inside the Repo?
 
 ✅ No installation required  
 ⚙️ Fully standalone build  
@@ -74,10 +58,6 @@ No copy-paste required.
 Click Start & Just position your cursor!
 Make sure to visit my GitHub page and drop a star.
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📎 How It Works
@@ -93,29 +73,21 @@ Edit
 - Make sure the cursor is **focused in a text field** before clicking **Start Typing**.
 - To stop mid-way, press `Esc` or move the cursor out.
 - You can add delays or tweak behavior by editing the source before building.
-
 ---
-
 ## 📁 Developer Notes
 
 - Built using: `Python`, `Tkinter`, `PyInstaller`
 - Works on: **Windows**
-
+- OnProgress: **Linux**
 ---
-
 ## 🔐 Disclaimer
-
 > This tool is for educational and productivity purposes only. Please use it responsibly and ethically.
-
 ---
-
 ## ⭐ Like it? Support by Giving a Star!
-
 [![GitHub Repo stars](https://img.shields.io/github/stars/Audi14/TypeSim?style=social)](https://github.com/Audi14-2005/TypeSim)
-
 ---
 
 ## 👨‍💻 Author
 
-Created with ❤️ by **Audi14**  
-[GitHub](https://github.com/Audi14-2005) | [LinkedIn](#)
+Created by **Audi14**  
+[GitHub](https://github.com/Audi14-2005) | [LinkedIn](https://www.linkedin.com/in/monic-auditya-a-b8bb68295/)
